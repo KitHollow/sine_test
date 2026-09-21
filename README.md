@@ -1,1 +1,3 @@
-Test code added
+This is the code for the SINE Senior Data Engineer interview
+
+[Miro Board](https://miro.com/welcomeonboard/aExuWWE3UDY2eitDWU9ON3dIZ3BWMFNSMlBmYUFQSGxTZGExb1NhN0V2VnRDV1pKYjIyZ2pNVWpLMHpQWjhacWdwNXpsYnVDTzdYNFNKSzVncEJ5V3dkUi9UaGpBS1UxOWVydXZnQkM4cWdvaThhWFJRU2VGOVV5MHpOUmtuSjNhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=435266820426)

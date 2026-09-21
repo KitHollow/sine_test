@@ -1,0 +1,3 @@
+/*
+    It would be important to have a conversion dimension model if sales span multiple countries
+*/

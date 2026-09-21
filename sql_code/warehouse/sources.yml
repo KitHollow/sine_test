@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: client_1
+    schema: '{{ var("landing_dataset") }}'
+    database: '{{ var("landing_database") }}'
+    tables:
+      - name: ticket_orders
+        identifier: ticket_orders
